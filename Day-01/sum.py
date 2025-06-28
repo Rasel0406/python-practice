@@ -1,0 +1,14 @@
+a=50
+b=30
+addition=a+b
+print("Addition of the number a and b =", addition)
+subtraction = a-b
+print('Substraction of the number  a and b =', subtraction)
+multiplication = a*b
+print ("Multiplication of the number a and b =", multiplication)
+division=a/b
+print("Division the number of a and b = ",division)
+c=60
+d=25
+remider = c%d
+print("Reminder of the number a and b =", remider)
